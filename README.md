@@ -1,8 +1,8 @@
-自用actions在线编译库，感谢P3TERX
+自用actions在线编译库，感谢P3TERX等大神，我就不一一感谢了！
 
 
 ## Acknowledgments
-
+- [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
@@ -17,6 +17,3 @@
 - [c-hive/gha-remove-artifacts](https://github.com/c-hive/gha-remove-artifacts)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 
-## License
-
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
